@@ -9,7 +9,7 @@ I'm a full stack developer...
 
 **Server:** Node, Express
 
-**Mobile:** React Native, Expo 
+**Mobile:** React Native, Expo, Android Studio 
 
 
 [![linkedin](https://img.shields.io/badge/In-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedlocnv14/)
