@@ -1,25 +1,80 @@
-<h1 align="center">Hi, I'm Van Loc!<img src="https://media2.giphy.com/media/RCBYD5ey6kusWhvObs/giphy.gif" width="100"></h1>
-<p align="center"><img src=" https://media1.giphy.com/media/3HbtyiV6otnLf4WHSN/200w.webp?cid=ecf05e47o5f3s9y85dlcn8hh4jjpfyb1u8lj7gcc7nokmeah&ep=v1_stickers_search&rid=200w.webp&ct=s" width="200"> </p>
+<h1 align="left" style="font-weight:700"><img src="https://avatars.githubusercontent.com/u/27955764?v=4" style="border-radius:100%; width:200px; height:auto"> Van Loc !<img src="https://media2.giphy.com/media/RCBYD5ey6kusWhvObs/giphy.gif" width="100"></h1>
+<p align="center"></p>
 
-<h1  align="center"><img src="https://media1.giphy.com/media/jLDTcbU89ZOW4/200w.webp?cid=ecf05e476vr0l0091gqfnch5r6yw682swpvs3re33osw6mqg&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50">About Me<img src="https://media1.giphy.com/media/jLDTcbU89ZOW4/200w.webp?cid=ecf05e476vr0l0091gqfnch5r6yw682swpvs3re33osw6mqg&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"></h1>
-
+[![Call](https://img.shields.io/badge/Phone-45834B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
 [![Mail](https://img.shields.io/badge/Mail-EA4334?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:locnv14@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedlocnv14/)
 [![github](https://img.shields.io/badge/GIThub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github-nqvnlc)
-[![steam](https://img.shields.io/badge/steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://github.com/github-nqvnlc)
 
-[![vsco](https://img.shields.io/badge/vsco-white?style=for-the-badge&logo=vsco&logoColor=000)](https://vsco.co/vsco-nqvnlc/gallery)
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://vsco.co/vsco-nqvnlc/gallery)
 [![Messenger](https://img.shields.io/badge/messenger-0091F2?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/t/fb.nqvnlc)
 [![instagram](https://img.shields.io/badge/instagram-FE016A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram/_ins.nqvnlc_)
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tik.vanloc)
+[![vsco](https://img.shields.io/badge/vsco-white?style=for-the-badge&logo=vsco&logoColor=000)](https://vsco.co/vsco-nqvnlc/gallery)
 
-I'm a full stack developer...
+[![steam](https://img.shields.io/badge/steam-13223A?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/uzmki/)
+[![discord](https://img.shields.io/badge/discord-292841?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FRUv5WYH)
+[![reddit](https://img.shields.io/badge/reddit-FF541F?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Phantomm148)
+[![spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lojsvg7gwxremwmfd4qt2n2zda)
+[![youtube](https://img.shields.io/badge/youtube-FF0A00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCMxC2e8K71LTPwlf0Nponw)
+[![twitch](https://img.shields.io/badge/twitch-772BE8?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phantomm148)
 
+<h1  align="left">About Me<img src="https://media1.giphy.com/media/jLDTcbU89ZOW4/200w.webp?cid=ecf05e476vr0l0091gqfnch5r6yw682swpvs3re33osw6mqg&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"></h1>
 
+<p align="justify"> I have always had a great interest in computing and art. I am currently studying information technology at University of Greenwich Vietnam - campus Da Nang. I really enjoy the tasks involved in designing the graphics for the website. I have good skills in ReactJS, Redux, having experience in design website. I am confident to develop a good user experience for your project.</p>
 
-|<h2>TECH STACK</h2>|                |  
-|-------------|:--------------|
+<br/>
+<br/>
+
+### :school: EDUCATION:
+[UNIVERSITY OF GREENWICH - VIET NAM, Campus Da Nang](https://greenwich.edu.vn/) - 8/2018 - 7/2023 - **Bachelor Information Technology**
+<br/>
+ 
+### :chart_with_upwards_trend: PROJECT:
+- **[Application Tranning:](https://github.com/github-nqvnlc/WebApplicationTraining)** A website to manage training courses. Build functions to create courses, register courses.
+  - **Role:** `Fullstack Developer`.
+  - **Technologies:** `ASP.Net`, `MVC`, `SQL Server`.
+
+- **[GNews Website:](https://github.com/TanToan99/GNEWS-Website)** A blog website of newspaper club in school. In this website, use to hosting mini game online, posts about club activities.
+  - **Role:** `Front-End Developer`.
+  - **Technologies:** `HTML`, `CSS`, `PHP`.
+
+- **[Bookstore:](https://github.com/github-nqvnlc/bookstore)** An online bookstore website.
+  - **Role:** `Fullstack Developer`.
+  - **Technologies:** `ReactJS`, `Redux`, `NodeJS`, `Express`, `RestAPI`, `MySQL`.
+ 
+- **[Traveling (Java):](https://github.com/github-nqvnlc/Mobile_Application)** A mobile application for managing travel expenses.
+  - **Role:** `Fullstack Developer`.
+  - **Technologies:** `Java`, `Android Studio`, `SQLite`.
+
+- **[Traveling (React Native):](https://github.com/github-nqvnlc/Mobile_Application_Expo)** A mobile application for managing travel expenses.
+  - **Role:** Fullstack Developer.
+  - **Technologies:** `React Native`, `Expo`.<br/>
+
+### :star: MORE...
+
+  👩‍💻 I'm currently working... `Freelancer`
+
+  🧠 I'm currently learning... `NodeJS/Nest JS`
+
+  🤔 I'm looking for help with... `Typescript`
+
+  💬 Ask me about... `anything, You're welcome!`
+
+  📫 How to reach me... `Connect with Messenger`
+
+  😄 Pronouns... `Homies`
+
+  ⚡️ Fun fact... `Opacarophile & Paracetamol`
+
+<br/>
+<br/>
+
+<h2 align="left">TECH STACK</h2>
+<br/>
+
+|             | Technologies                     |  
+|-------------|:---------------------------------|
 | **Client:** |  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="25" height="25"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/> &nbsp;<img  src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" alt="SCSS" width="25" height="25"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="25" height="25"/> &nbsp;<img  src="https://github.com/reduxjs/redux/blob/master/logo/logo.png?raw=true" alt="Redux" width="25" height="25"/> &nbsp;<img  src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="NextJS" width="25" height="25"/> &nbsp;<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="25" height="25"/> &nbsp;<img  src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg" alt="MUI Core" width="25" height="25"/> &nbsp; 
 | **Server:** |    <img  src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#"  height="25"/> &nbsp; <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" alt="C#"  height="25"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="25" height="25"/> &nbsp;  <img  src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="ExpressJS"  height="25"/> &nbsp;<img  src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" alt="NestJs" width="25" height="25"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="25" height="25"/> &nbsp;|
 | **Mobile:** | <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React Native" width="25" height="25"/> &nbsp;<img  src="https://github.com/expo/expo/raw/main/.github/resources/banner.png" alt="Expo" width="25" height="25"/> &nbsp;<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="25" height="25"/> &nbsp; 
@@ -28,15 +83,15 @@ I'm a full stack developer...
 | **Design tools:** |<img  src="https://github.com/Gictorbit/photoshopCClinux/raw/master/images/AdobePhotoshop-icon.png" alt="Photoshop" width="25" height="25"/>&nbsp;  <img  src="https://github.com/Gictorbit/illustratorCClinux/raw/master/images/AiIcon.png" alt="Illustrator" width="25" height="25"/>&nbsp;  <img  src="https://github.com/github-nqvnlc/github-nqvnlc/blob/main/img/pr.png?raw=true" alt="Pr" width="25" height="25"/>&nbsp;|
   
 
-<h2>Visitor's count :eyes:</h2>
-<p><img src="https://profile-counter.glitch.me/{github-nqvnlc}/count.svg" alt="github-nqvnlc :: Visitor's Count" /></p>
+<h2 align="left">Visitor's count :eyes:</h2>
+<p align="left"><img src="https://profile-counter.glitch.me/{github-nqvnlc}/count.svg" alt="github-nqvnlc :: Visitor's Count" /></p>
 
-<h2>Top langs :tongue:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&langs_count=10&theme=synthwave&layout=compact" alt="VanLoc :: Top Langs" /></p>
+<h2 align="left">Top langs :tongue:</h2>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&langs_count=10&theme=synthwave&layout=compact" alt="VanLoc :: Top Langs" /></p>
 
-<h4>Profile stats :musical_keyboard:</h4>
+<h4 align="left">Profile stats :musical_keyboard:</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=synthwave" alt="github-nqvnlc :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=synthwave" alt="github-nqvnlc :: Profile Stats" /></p>
 
 <!---
 github-nqvnlc/github-nqvnlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
