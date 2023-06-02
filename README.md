@@ -1,4 +1,4 @@
-<h1 align="left" style="font-weight:700"><img src="https://avatars.githubusercontent.com/u/27955764?v=4" style="border-radius:100%; width:200px; height:auto"> Van Loc !<img src="https://media2.giphy.com/media/RCBYD5ey6kusWhvObs/giphy.gif" width="100"></h1>
+<h1 align="left" style="font-weight:700"><img src="https://avatars.githubusercontent.com/u/27955764?v=4" style="border-radius:100%; width:200px; height:auto"> VAN LOC !<img src="https://media2.giphy.com/media/RCBYD5ey6kusWhvObs/giphy.gif" width="100"></h1>
 <p align="center"></p>
 
 [![Call](https://img.shields.io/badge/Phone-45834B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
@@ -19,18 +19,18 @@
 [![youtube](https://img.shields.io/badge/youtube-FF0A00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCMxC2e8K71LTPwlf0Nponw)
 [![twitch](https://img.shields.io/badge/twitch-772BE8?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phantomm148)
 
-<h1  align="left">About Me<img src="https://media1.giphy.com/media/jLDTcbU89ZOW4/200w.webp?cid=ecf05e476vr0l0091gqfnch5r6yw682swpvs3re33osw6mqg&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"></h1>
+<h1  align="left">ABOUT ME<img src="https://media1.giphy.com/media/jLDTcbU89ZOW4/200w.webp?cid=ecf05e476vr0l0091gqfnch5r6yw682swpvs3re33osw6mqg&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50"></h1>
 
 <p align="justify"> I have always had a great interest in computing and art. I am currently studying information technology at University of Greenwich Vietnam - campus Da Nang. I really enjoy the tasks involved in designing the graphics for the website. I have good skills in ReactJS, Redux, having experience in design website. I am confident to develop a good user experience for your project.</p>
 
 <br/>
 <br/>
 
-### :school: EDUCATION:
-[UNIVERSITY OF GREENWICH - VIET NAM, Campus Da Nang](https://greenwich.edu.vn/) - 8/2018 - 12/2022 - **Bachelor Information Technology**
+## :mortar_board: EDUCATION:
+- [UNIVERSITY OF GREENWICH - VIET NAM, Campus Da Nang](https://greenwich.edu.vn/) - 8/2018 - 12/2022 - **Bachelor Information Technology**
 <br/>
  
-### :chart_with_upwards_trend: PROJECT:
+## :chart_with_upwards_trend: PROJECT:
 - **[Application Tranning:](https://github.com/github-nqvnlc/WebApplicationTraining)** A website to manage training courses. Build functions to create courses, register courses.
   - **Role:** `Fullstack Developer`.
   - **Technologies:** `ASP.Net`, `MVC`, `SQL Server`.
@@ -51,26 +51,20 @@
   - **Role:** `Fullstack Developer`.
   - **Technologies:** `React Native`, `Expo`.<br/>
 
-### :star: MORE...
+## :star: MORE...
 
-  👩‍💻 I'm currently working... `Freelancer`
-
-  🧠 I'm currently learning... `NodeJS/Nest JS`
-
-  🤔 I'm looking for help with... `Typescript`
-
-  💬 Ask me about... `anything, You're welcome!`
-
-  📫 How to reach me... `Connect with Messenger`
-
-  😄 Pronouns... `Homies`
-
-  ⚡️ Fun fact... `Opacarophile & Paracetamol`
+  - 👩‍💻 I'm currently working... `Freelancer`
+  - 🧠 I'm currently learning... `NodeJS/Nest JS`
+  - 🤔 I'm looking for help with... `Typescript`
+  - 💬 Ask me about... `anything, You're welcome!`
+  - 📫 How to reach me... `Connect with Messenger`
+  - 😄 Pronouns... `Homies`
+  - ⚡️ Fun fact... `Opacarophile & Paracetamol`
 
 <br/>
 <br/>
 
-<h2 align="left">TECH STACK</h2>
+<h1> :wrench: TECH STACK: </h1>
 <br/>
 
 |             | Technologies                     |  
@@ -81,14 +75,18 @@
 | **Database:** | <img  src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="MongoDB" width="40" height="40"/> &nbsp;  <img  src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySql"  height="40"/> &nbsp;<img  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL"  height="40"/> &nbsp; <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="Microsoft SQL" height="40"/> &nbsp;|
 | **Dev tools:** | <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>&nbsp;<img  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Visual Studio" width="40" height="40"/>&nbsp;  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png?20210214224138" alt="Visual Studio" width="40" height="40"/>&nbsp;  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp; <img  src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png" alt="Android Studio" width="40" height="40"/>&nbsp;  <img  src="https://raw.githubusercontent.com/github/explore/581f63c6d5a258de4650c0adbfdfe2cc3ec92b43/topics/xampp/xampp.png" alt="XamPP" width="40" height="40"/>&nbsp;  <img  src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="40" height="40"/>&nbsp;|
 | **Design tools:** |<img  src="https://github.com/Gictorbit/photoshopCClinux/raw/master/images/AdobePhotoshop-icon.png" alt="Photoshop" width="40" height="40"/>&nbsp;  <img  src="https://github.com/Gictorbit/illustratorCClinux/raw/master/images/AiIcon.png" alt="Illustrator" width="40" height="40"/>&nbsp;  <img  src="https://github.com/github-nqvnlc/github-nqvnlc/blob/main/img/pr.png?raw=true" alt="Pr" width="40" height="40"/>&nbsp;|
-  
+ 
+<br/>
+<br/>
 
-<h2 align="left">Visitor's count :eyes:</h2>
-<p align="left"><img src="https://profile-counter.glitch.me/{github-nqvnlc}/count.svg" alt="github-nqvnlc :: Visitor's Count" width="70%"  /></p>
+<h1> :eyes: VISITOR'S COUNT: </h1>
+<p align="left"><img src="https://profile-counter.glitch.me/{github-nqvnlc}/count.svg" alt="github-nqvnlc :: Visitor's Count" width="100%"  /></p>
 
-<h2 align="left">Top langs :tongue:</h2>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&langs_count=10&theme=synthwave&layout=compact" alt="VanLoc :: Top Langs" width="70%"/></p>
+<br/>
+<br/>
 
+<h1> :shipit: TOP LANGUAGE: </h1>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&langs_count=10&theme=codeSTACKr&layout=compact" alt="VanLoc :: Top Langs" width="100%"/></p>
 <!-- <h4 align="left">Profile stats :musical_keyboard:</h4>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=synthwave" alt="github-nqvnlc :: Profile Stats" width="70%"/></p> -->
