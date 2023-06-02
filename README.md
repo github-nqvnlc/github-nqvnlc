@@ -27,7 +27,7 @@
 <br/>
 
 ### :school: EDUCATION:
-[UNIVERSITY OF GREENWICH - VIET NAM, Campus Da Nang](https://greenwich.edu.vn/) - 8/2018 - 7/2023 - **Bachelor Information Technology**
+[UNIVERSITY OF GREENWICH - VIET NAM, Campus Da Nang](https://greenwich.edu.vn/) - 8/2018 - 12/2022 - **Bachelor Information Technology**
 <br/>
  
 ### :chart_with_upwards_trend: PROJECT:
@@ -43,7 +43,7 @@
   - **Role:** `Fullstack Developer`.
   - **Technologies:** `ReactJS`, `Redux`, `NodeJS`, `Express`, `RestAPI`, `MySQL`.
  
-- **[Traveling (Java):](https://github.com/github-nqvnlc/Mobile_Application)** A mobile application for managing travel expenses.
+- **[Traveling (Java Android):](https://github.com/github-nqvnlc/Mobile_Application)** A mobile application for managing travel expenses.
   - **Role:** `Fullstack Developer`.
   - **Technologies:** `Java`, `Android Studio`, `SQLite`.
 
