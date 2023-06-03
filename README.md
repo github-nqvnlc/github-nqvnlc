@@ -1,4 +1,4 @@
-<h1 align="left" style="font-weight:700"><img src="https://avatars.githubusercontent.com/u/27955764?v=4" style="border-radius:100%; width:200px; height:auto"> VAN LOC !<img src="https://media2.giphy.com/media/RCBYD5ey6kusWhvObs/giphy.gif" width="100"></h1>
+<h1 align="left" style="font-weight:700"><img src="https://avatars.githubusercontent.com/u/27955764?v=4" style="border-radius:100%; width:200px; height:auto"> VAN LOC <img src="https://media2.giphy.com/media/RCBYD5ey6kusWhvObs/giphy.gif" width="100"></h1>
 <p align="center"></p>
 
 [![Call](https://img.shields.io/badge/Phone-45834B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
@@ -8,7 +8,7 @@
 
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://vsco.co/vsco-nqvnlc/gallery)
 [![Messenger](https://img.shields.io/badge/messenger-0091F2?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/t/fb.nqvnlc)
-[![instagram](https://img.shields.io/badge/instagram-FE016A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram/_ins.nqvnlc_)
+[![instagram](https://img.shields.io/badge/instagram-FE016A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ins.nqvnlc_)
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tik.vanloc)
 [![vsco](https://img.shields.io/badge/vsco-white?style=for-the-badge&logo=vsco&logoColor=000)](https://vsco.co/vsco-nqvnlc/gallery)
 
