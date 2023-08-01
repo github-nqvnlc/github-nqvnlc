@@ -1,4 +1,4 @@
-<h1 align="left" style="font-weight:700; display: flex; align-items: center; gap: 20px;"><img src="https://github.com/github-nqvnlc/github-nqvnlc/blob/main/img/avatar.jpg?raw=true" style="border-radius:100%; width:200px; height:auto"> VAN LOC <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47d07gohmnbz1jk0t0qy10bd46yycyn3tryb9a1hx6&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width:70px; height:70px; object-fit: cover;"></h1>
+<h1 align="left" style="font-weight:700; display: flex; align-items: center; justify-items: center; gap: 50px; width: 100vw"><img src="https://github.com/github-nqvnlc/github-nqvnlc/blob/main/img/avatar.jpg?raw=true" style="border-radius:100%; width:200px; height:auto"> VAN LOC <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47d07gohmnbz1jk0t0qy10bd46yycyn3tryb9a1hx6&ep=v1_stickers_search&rid=giphy.gif&ct=s" style=" height:50px; object-fit: cover;"></h1>
 <p align="center"></p>
 
 [![Call](https://img.shields.io/badge/Phone-45834B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
