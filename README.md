@@ -6,7 +6,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedlocnv14/)
 [![github](https://img.shields.io/badge/GIThub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github-nqvnlc)
 
-[![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://vsco.co/vsco-nqvnlc/gallery)
+[![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/fb.nqvnlc)
 [![Messenger](https://img.shields.io/badge/messenger-0091F2?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/t/fb.nqvnlc)
 [![instagram](https://img.shields.io/badge/instagram-FE016A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ins.nqvnlc_)
 [![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tik.vanloc)
@@ -14,7 +14,7 @@
 
 [![steam](https://img.shields.io/badge/steam-13223A?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/uzmki/)
 [![discord](https://img.shields.io/badge/discord-292841?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FRUv5WYH)
-[![reddit](https://img.shields.io/badge/reddit-FF541F?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Phantomm148)
+[![reddit](https://img.shields.io/badge/reddit-FF541F?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/JirasR)
 [![spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lojsvg7gwxremwmfd4qt2n2zda)
 [![youtube](https://img.shields.io/badge/youtube-FF0A00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCMxC2e8K71LTPwlf0Nponw)
 [![twitch](https://img.shields.io/badge/twitch-772BE8?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phantomm148)
