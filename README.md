@@ -8,10 +8,53 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;Fullstack+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies;Building+Amazing+User+Experiences)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=github-nqvnlc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/github-nqvnlc?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/github-nqvnlc?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
+</div>
+
 [![Sponsor](https://img.shields.io/badge/❤%EF%B8%8F_Sponsor-FF5733?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/locnv14r)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 **CONNECT WITH ME**
+
+<div align="center">
+
+### 📞 **Professional Contact**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedlocnv14/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:locnv14@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github-nqvnlc)
+
+### 💸 **Support My Work**
+
+[![Sponsor](https://img.shields.io/badge/❤%EF%B8%8F_Sponsor_Me-FF5733?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/locnv14r)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
+
+### 🎮 **Social & Gaming**
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/fb.nqvnlc)
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/t/fb.nqvnlc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ins.nqvnlc_)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tik.vanloc)
+[![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/vsco-nqvnlc/gallery)
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/uzmki/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FRUv5WYH)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/JirasR)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phantomm148)
+
+### 🎵 **Entertainment**
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lojsvg7gwxremwmfd4qt2n2zda)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCMxC2e8K71LTPwlf0Nponw)
+
+</div>
 
 </div>
 
@@ -273,10 +316,10 @@ _School News Portal_
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=github-nqvnlc&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E"/>
+<img width="1000%" src="https://github-readme-streak-stats.herokuapp.com/?user=github-nqvnlc&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=github-nqvnlc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B"/>
 
@@ -294,14 +337,6 @@ _School News Portal_
   <a href="https://www.codewars.com/users/github-nqvnlc">
     <img src="https://www.codewars.com/users/github-nqvnlc/badges/large" alt="Codewars Badge">
   </a>
-</div>
-
-### 🌟 **Developer Productivity**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=github-nqvnlc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/github-nqvnlc?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/github-nqvnlc?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ### 💡 **Random Dev Quote**
@@ -324,69 +359,15 @@ _School News Portal_
 
 </div>
 
----
-
-## 🌐 **CONNECT WITH ME**
-
-<div align="center">
-
-### 📞 **Professional Contact**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedlocnv14/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:locnv14@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github-nqvnlc)
-
-### 💸 **Support My Work**
-
-[![Sponsor](https://img.shields.io/badge/❤%EF%B8%8F_Sponsor_Me-FF5733?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/locnv14r)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
-
-### 🎮 **Social & Gaming**
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/fb.nqvnlc)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/t/fb.nqvnlc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ins.nqvnlc_)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tik.vanloc)
-[![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/vsco-nqvnlc/gallery)
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/uzmki/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FRUv5WYH)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/JirasR)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phantomm148)
-
-### 🎵 **Entertainment**
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lojsvg7gwxremwmfd4qt2n2zda)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCMxC2e8K71LTPwlf0Nponw)
-
-</div>
-
----
-
 ## 💡 **CURRENTLY**
 
 ```javascript
 const vanLoc = {
   location: "Da Nang, Vietnam 🇻🇳",
   status: "Freelancer 💼",
-  currentlyLearning: [
-    "NodeJS", 
-    "NestJS", 
-    "DevOps"
-  ],
-  interests: [
-    "Web Development", 
-    "Mobile Apps", 
-    "UI/UX Design"
-  ],
-  askMeAbout: [
-    "React", 
-    "Svelte",
-    "Node.js", 
-    "MongoDB"
-  ],
+  currentlyLearning: ["NodeJS", "NestJS", "DevOps"],
+  interests: ["Web Development", "Mobile Apps", "UI/UX Design"],
+  askMeAbout: ["React", "Svelte", "Node.js", "MongoDB"],
   funFact: "I'm an Opacarophile (sunset lover) ☀️",
   motto: "Code with passion, design with purpose! 🚀",
 };
