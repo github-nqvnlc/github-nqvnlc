@@ -517,6 +517,88 @@
             color: var(--secondary-color);
         }
 
+        /* GitHub Analytics Section */
+        .analytics-container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border-radius: 20px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+            overflow: hidden;
+        }
+
+        .stat-card:hover {
+            border-color: var(--primary-color);
+            box-shadow: var(--shadow-primary);
+            transform: translateY(-5px);
+        }
+
+        .stat-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover img {
+            transform: scale(1.02);
+        }
+
+        .streak-container {
+            background: var(--bg-secondary);
+            border-radius: 20px;
+            padding: 1.5rem;
+            margin-bottom: 3rem;
+            text-align: center;
+            border: 1px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .streak-container:hover {
+            border-color: var(--primary-color);
+            box-shadow: var(--shadow-primary);
+            transform: translateY(-5px);
+        }
+
+        .streak-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 15px;
+        }
+
+        .activity-container {
+            background: var(--bg-secondary);
+            border-radius: 20px;
+            padding: 1.5rem;
+            text-align: center;
+            border: 1px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .activity-container:hover {
+            border-color: var(--primary-color);
+            box-shadow: var(--shadow-primary);
+            transform: translateY(-5px);
+        }
+
+        .activity-container img {
+            width: 100%;
+            height: auto;
+            border-radius: 15px;
+        }
+
         /* Contact Section */
         .contact {
             background: var(--bg-secondary);
@@ -623,6 +705,15 @@
             .social-links {
                 grid-template-columns: repeat(2, 1fr);
             }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .stat-card, .streak-container, .activity-container {
+                padding: 1rem;
+            }
         }
 
         @media (max-width: 480px) {
@@ -670,6 +761,7 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href="#analytics">Analytics</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
@@ -1060,6 +1152,29 @@
                         </a>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GitHub Analytics Section -->
+    <section id="analytics" class="section">
+        <h2 class="section-title">GITHUB ANALYTICS</h2>
+        <div class="analytics-container fade-in">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <img src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C0C0C0&icon_color=C0C0C0&text_color=FFFFFF" alt="GitHub Stats" />
+                </div>
+                <div class="stat-card">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C0C0C0&text_color=FFFFFF" alt="Top Languages" />
+                </div>
+            </div>
+            
+            <div class="streak-container">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-nqvnlc&theme=tokyonight&hide_border=true&background=0D1117&stroke=C0C0C0&ring=C0C0C0&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C0C0C0&sideLabels=C0C0C0&dates=8B949E" alt="GitHub Streak" />
+            </div>
+            
+            <div class="activity-container">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=github-nqvnlc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C0C0C0&line=C0C0C0&point=FF6B6B" alt="GitHub Activity Graph" />
             </div>
         </div>
     </section>
