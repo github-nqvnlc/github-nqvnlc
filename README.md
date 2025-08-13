@@ -1,7 +1,8 @@
 <div align="center">
 
-# 💫 **NGUYEN VAN LOC** 
-### *Fullstack Developer & Digital Artist*
+# 💫 **NGUYEN VAN LOC**
+
+### _Fullstack Developer & Digital Artist_
 
 <img src="https://github.com/github-nqvnlc/github-nqvnlc/blob/main/img/avartar3.jpg?raw=true" alt="Van Loc" width="200" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0,191,255,0.6);"/>
 
@@ -16,7 +17,9 @@
 
 ## 🌟 **ABOUT ME**
 
-<img align="center" alt="Coding" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvcGR6dnp0NWZ3cXRnNWw2emUxMDA3bTlpZnRxaW1kaHEyYmNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif">
+<div  align="center" >
+<img alt="Coding" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvcGR6dnp0NWZ3cXRnNWw2emUxMDA3bTlpZnRxaW1kaHEyYmNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" />
+</div>
 
 <br />
 
@@ -27,6 +30,7 @@
 ⚡ **Fun fact:** Opacarophile & Paracetamol addict
 
 ### 🎓 **Education Journey**
+
 ```
 🏤️ University of Greenwich Vietnam - Da Nang Campus
 📅 2018 - 2022
@@ -43,6 +47,7 @@
 <div align="center">
 
 ### 💻 **Frontend Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -57,6 +62,7 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### ⚙️ **Backend Development**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -65,12 +71,14 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 📱 **Mobile Development**
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 🗄️ **Database & ORM**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,6 +88,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ### 🛠️ **Development Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -87,6 +96,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ### 🎨 **Design Tools**
+
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -106,7 +116,8 @@
 <td width="50%">
 
 #### 🏨 [**Booking Star**](https://github.com/github-nqvnlc/booking-star)
-*Smart Hotel Booking Application*
+
+_Smart Hotel Booking Application_
 
 🔥 **Cutting-edge travel booking platform**  
 🛠️ **Tech Stack:** TypeScript, Next.js, React, TailwindCSS, Prisma, MongoDB, NextAuth  
@@ -116,7 +127,8 @@
 <td width="50%">
 
 #### 🎯 [**Quiz App**](https://github.com/github-nqvnlc/QuizApp)
-*Interactive Quiz Application*
+
+_Interactive Quiz Application_
 
 📱 **Interactive mobile quiz application**  
 🛠️ **Tech Stack:** React Native, Expo  
@@ -133,7 +145,8 @@
 <td width="50%">
 
 #### 💼 [**Personal CV**](https://github.com/github-nqvnlc/locnv-cv)
-*Professional Resume Website*
+
+_Professional Resume Website_
 
 📄 **Modern CV website with interactive design**  
 🛠️ **Tech Stack:** TypeScript, React, CSS3  
@@ -143,7 +156,8 @@
 <td width="50%">
 
 #### 📝 [**Blog Application**](https://github.com/github-nqvnlc/blog-application)
-*Content Management System*
+
+_Content Management System_
 
 ✍️ **Full-featured blogging platform**  
 🛠️ **Tech Stack:** JavaScript, Node.js, Express  
@@ -160,7 +174,8 @@
 <td width="50%">
 
 #### 🚀 [**Cosmic**](https://github.com/github-nqvnlc/cosmic)
-*Space-themed Web Experience*
+
+_Space-themed Web Experience_
 
 🌟 **Interactive cosmic-themed website**  
 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript  
@@ -170,7 +185,8 @@
 <td width="50%">
 
 #### 👩‍💼 [**Hongoanh Portfolio**](https://github.com/github-nqvnlc/hongoanh-portfolio)
-*Professional Portfolio Website*
+
+_Professional Portfolio Website_
 
 💼 **Elegant portfolio design**  
 🛠️ **Tech Stack:** CSS3, HTML5, JavaScript  
@@ -187,7 +203,8 @@
 <td width="33%">
 
 #### 📚 [**Bookstore**](https://github.com/github-nqvnlc/bookstore)
-*E-commerce Platform*
+
+_E-commerce Platform_
 
 🛍️ **Full-featured online bookstore**  
 🛠️ **Tech:** React, Redux, Node.js, Express, MySQL  
@@ -197,7 +214,8 @@
 <td width="33%">
 
 #### ✈️ [**Travel Expense Manager**](https://github.com/github-nqvnlc/Mobile_Application)
-*Android App*
+
+_Android App_
 
 📱 **Travel budget tracker (Java)**  
 🛠️ **Tech:** Java, Android Studio, SQLite  
@@ -207,7 +225,8 @@
 <td width="33%">
 
 #### ✈️ [**Travel Expo**](https://github.com/github-nqvnlc/Mobile_Application_Expo)
-*React Native Version*
+
+_React Native Version_
 
 📱 **Travel budget tracker (RN)**  
 🛠️ **Tech:** React Native, Expo  
@@ -224,7 +243,8 @@
 <td width="50%">
 
 #### 📚 [**Training Management**](https://github.com/github-nqvnlc/WebApplicationTraining)
-*Course Management System*
+
+_Course Management System_
 
 🏫 **Educational platform for course management**  
 🛠️ **Tech Stack:** ASP.NET, MVC, SQL Server  
@@ -234,7 +254,8 @@
 <td width="50%">
 
 #### 📰 [**GNews Website**](https://github.com/TanToan99/GNEWS-Website)
-*School News Portal*
+
+_School News Portal_
 
 📰 **Student newspaper & gaming platform**  
 🛠️ **Tech Stack:** HTML, CSS, PHP  
@@ -267,14 +288,39 @@
 
 <div align="center">
 
-### 🎯 **LeetCode Progress**
-[![Leetcode Stats](https://leetcard.jacoblin.cool/github-nqvnlc?theme=dark&font=Cabin&ext=contest)](https://leetcode.com/github-nqvnlc/)
+### 🎮 **Coding Games & Challenges**
+
+<div align="center">
+  <a href="https://www.codewars.com/users/github-nqvnlc">
+    <img src="https://www.codewars.com/users/github-nqvnlc/badges/large" alt="Codewars Badge">
+  </a>
+</div>
+
+### 🌟 **Developer Productivity**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=github-nqvnlc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/github-nqvnlc?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/github-nqvnlc?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
+</div>
+
+### 💡 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+</div>
 
 ### 🏅 **GitHub Trophies**
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=github-nqvnlc&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 👥 **Profile Views**
-<img src="https://profile-counter.glitch.me/github-nqvnlc/count.svg" alt="Visitor Count" width="200"/>
+### 🚀 **GitHub Activity Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/github-nqvnlc/github-nqvnlc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/github-nqvnlc/github-nqvnlc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/github-nqvnlc/github-nqvnlc/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -285,17 +331,20 @@
 <div align="center">
 
 ### 📞 **Professional Contact**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedlocnv14/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:locnv14@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:84582070987)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github-nqvnlc)
 
 ### 💸 **Support My Work**
+
 [![Sponsor](https://img.shields.io/badge/❤%EF%B8%8F_Sponsor_Me-FF5733?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/locnv14r)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/sponsors/github-nqvnlc)
 
 ### 🎮 **Social & Gaming**
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/fb.nqvnlc)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/t/fb.nqvnlc)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ins.nqvnlc_)
@@ -308,6 +357,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/phantomm148)
 
 ### 🎵 **Entertainment**
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lojsvg7gwxremwmfd4qt2n2zda)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCMxC2e8K71LTPwlf0Nponw)
 
@@ -319,13 +369,26 @@
 
 ```javascript
 const vanLoc = {
-    location: "Da Nang, Vietnam 🇻🇳",
-    status: "Freelancer 💼",
-    currentlyLearning: ["NodeJS", "NestJS", "DevOps"],
-    interests: ["Web Development", "Mobile Apps", "UI/UX Design"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "System Design"],
-    funFact: "I'm an Opacarophile (sunset lover) ☀️",
-    motto: "Code with passion, design with purpose! 🚀"
+  location: "Da Nang, Vietnam 🇻🇳",
+  status: "Freelancer 💼",
+  currentlyLearning: [
+    "NodeJS", 
+    "NestJS", 
+    "DevOps"
+  ],
+  interests: [
+    "Web Development", 
+    "Mobile Apps", 
+    "UI/UX Design"
+  ],
+  askMeAbout: [
+    "React", 
+    "Svelte",
+    "Node.js", 
+    "MongoDB"
+  ],
+  funFact: "I'm an Opacarophile (sunset lover) ☀️",
+  motto: "Code with passion, design with purpose! 🚀",
 };
 ```
 
@@ -346,7 +409,3 @@ const vanLoc = {
 <div align="center">
 <sub>© 2025 Nguyen Van Loc. Made with ❤️ and lots of ☕</sub>
 </div>
-
-
-
-
