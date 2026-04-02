@@ -315,14 +315,8 @@ _School News Portal_
 ## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
-
-<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=github-nqvnlc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
-<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-nqvnlc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
-
-<img width="1000%" src="https://github-readme-streak-stats.herokuapp.com/?user=github-nqvnlc&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=github-nqvnlc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B"/>
-
+  <img width="1000%" src="https://github-readme-streak-stats.herokuapp.com/?user=github-nqvnlc&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github-nqvnlc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B"/>
 </div>
 
 ---
@@ -344,10 +338,6 @@ _School News Portal_
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
-
-### 🏅 **GitHub Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=github-nqvnlc&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 **GitHub Activity Snake**
 
